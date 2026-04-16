@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: engine-worker-21319
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/engine-worker-21319
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
